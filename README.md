@@ -1,3 +1,3 @@
 # Demo
 
-first demo rep !
+first demo rep Description .
